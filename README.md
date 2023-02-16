@@ -4,7 +4,7 @@ One webpage, one button
 # MVP: button does something
 basic standard html button with javascript causes something to change on the page without reloading or bringing to a new page
 - [X] button centered on screen/page
-- [ ] changes the color of the background
+- [X] changes the color of the background
 - [ ] counts how many times the button has been pressed
 
 # fun stuff
