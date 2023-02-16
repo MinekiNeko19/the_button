@@ -14,15 +14,16 @@ body {
 
 button {
   position: fixed;
-  top: 50%;
-  left: 48%;
+  top: 47%;
+  left: 47%;
   
   font-size: 100px;
   color: white;
   border: none;
   background-color: #05b4ff;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 27px;
+  padding-right: 27px;
+  border-radius: 50%;
 }
 
 button:active {
