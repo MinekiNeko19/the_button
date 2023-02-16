@@ -9,6 +9,7 @@ basic standard html button with javascript causes something to change on the pag
 
 # fun stuff
 ##  animating
+  - [ ] the button is a circle/can change shape
   - [ ] next color comes from the right/left/up/down
   - [ ] gradient color change
 ## achievements 
