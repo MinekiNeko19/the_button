@@ -13,9 +13,18 @@ body {
 } */
 
 button {
-  size : 500px;
-  position: absolute;
+  position: fixed;
   top: 50%;
-  left: 50%;
+  left: 48%;
   
+  font-size: 100px;
+  color: white;
+  border: none;
+  background-color: #05b4ff;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+button:active {
+  background-color: #0098d4;
 }
