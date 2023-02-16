@@ -3,13 +3,14 @@ One webpage, one button
 
 # MVP: button does something
 basic standard html button with javascript causes something to change on the page without reloading or bringing to a new page
-- [ ] button centered on screen/page
+- [X] button centered on screen/page
 - [ ] changes the color of the background
 - [ ] counts how many times the button has been pressed
 
 # fun stuff
 ##  animating
-  - [ ] the button is a circle/can change shape
+  - [x] the button is a circle/can change shape
+    - [ ] button returns to orignal color gradually (button returns to unpressed state slowly like irl)
   - [ ] next color comes from the right/left/up/down
   - [ ] gradient color change
 ## achievements 

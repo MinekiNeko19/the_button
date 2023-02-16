@@ -3,23 +3,19 @@ html {
 }
 
 body {
-  background-color: bisque;
+  background-color: #ffffff;
   height: 100%; 
   display: flex;
   align-items: center;
   justify-content: center;
 } 
 
-/* div {
-  height: 100%;
-} */
-
 button {
   font-size: 100px;
   color: white;
   border: none;
   background-color: #05b4ff;
-  padding-left: 0.3em;
+  padding-left: 0.3em; /*em is relative to the font size :DDD*/
   padding-right: 0.3em;
   border-radius: 50%;
 }
