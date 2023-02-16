@@ -4,25 +4,23 @@ html {
 
 body {
   background-color: bisque;
-  margin: 0;
-  height: 100%;
-}
+  height: 100%; 
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+} 
 
 /* div {
   height: 100%;
 } */
 
 button {
-  position: fixed;
-  top: 47%;
-  left: 47%;
-  
   font-size: 100px;
   color: white;
   border: none;
   background-color: #05b4ff;
-  padding-left: 27px;
-  padding-right: 27px;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
   border-radius: 50%;
 }
 
