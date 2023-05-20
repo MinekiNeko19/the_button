@@ -11,16 +11,38 @@ body {
   justify-content: center;
 } 
 
+/* nice colors 
+rgb(71, 228, 162) 
+#0098d4
+*/
+
 button {
   font-size: 100px;
   color: white;
   border: none;
-  background-color: #05b4ff;
+  /* background-color: #05b4ff; */
+  background-image: radial-gradient(#05b4ff ,#05b4ff, #002f64);
+  /* border: 10px solid #ffffffea; */
   padding-left: 0.3em; /*em is relative to the font size :DDD*/
   padding-right: 0.3em;
   border-radius: 50%;
 }
 
 button:active {
-  background-color: #0098d4;
+  /* background-color: #0098d4; */
+  background-image: radial-gradient(#006e99, #05b4ff );
+}
+
+#objs {
+  display:inline;
+}
+
+#words {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1em;
 }

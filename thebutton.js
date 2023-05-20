@@ -9,9 +9,9 @@ function buttonTask() {
   // console.log(timesPressed);
   document.getElementById("count").innerHTML = timesPressed;
 
-  var o = Math.floor(Math.random() * 2); // * number of fxns +1 made yes
+  var o = Math.floor(Math.random() * 1); // * number of fxns +1 made yes
 
-  if (o == 1) {
+  if (o == 0) {
     changeBGColor();
   }
 }
