@@ -21,7 +21,7 @@ button {
   color: white;
   border: none;
   /* background-color: #05b4ff; */
-  background-image: radial-gradient(#05b4ff ,#05b4ff, #002f64);
+  background-image: radial-gradient(#006e99, #05b4ff);
   /* border: 10px solid #ffffffea; */
   padding-left: 0.3em; /*em is relative to the font size :DDD*/
   padding-right: 0.3em;
@@ -30,7 +30,7 @@ button {
 
 button:active {
   /* background-color: #0098d4; */
-  background-image: radial-gradient(#006e99, #05b4ff );
+  background-image: radial-gradient(#05b4ff ,#05b4ff, #002f64);
 }
 
 #objs {
@@ -45,4 +45,5 @@ button:active {
 p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 1em;
+  text-align: center;
 }
